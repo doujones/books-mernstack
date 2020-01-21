@@ -1,0 +1,22 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Books App Full Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doujones/books-mernstack.git"
+  },
+  "keywords": [
+    "Boswell"
+  ],
+  "author": "Will Boswell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doujones/books-mernstack/issues"
+  },
+  "homepage": "https://github.com/doujones/books-mernstack#readme"
+}
